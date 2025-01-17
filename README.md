@@ -16,10 +16,12 @@
     <a href="https://www.linkedin.com/in/luccasalencar/" target="_blank">
         <img src="assets/site.png" alt="Portfólio" style="height: 28px;">
     </a>
-    <img src="assets/yo.gif" align="right" alt="" height="190px">
 </div>
 
+<img src="assets/yo.gif" align="right" alt="" height="190px">
 
+
+<br/>
 <br/>
 <br/>
 <br/>
