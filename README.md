@@ -7,7 +7,7 @@
 <br/>
 
 ## Connect with me!
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/luccasalencar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
