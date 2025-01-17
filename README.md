@@ -4,7 +4,7 @@
     </a>
 </div>
 
-
+#
 ## Connect with me!
 <div align="left">
     <a href="https://www.linkedin.com/in/luccasalencar/" target="_blank">
@@ -26,6 +26,7 @@
 <br/>
 <br/>
 
+#
 ## GitHub Stats
 <div style="display: flex; align-items: center; gap: 10px;">
     <img 
@@ -41,6 +42,7 @@
 </div>
 <br/>
 
+#
 ## My skills
 <div align="center">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -63,3 +65,5 @@
    
 ![snake gif](https://github.com/LuccasAlencar/LuccasAlencar/blob/output/github-snake-dark.svg)
 </div>
+
+#
