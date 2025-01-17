@@ -7,7 +7,7 @@
 <br/>
 
 ## Connect with me!
-
+<div style="display: flex; align-items: center; gap: 10px;">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccasalencar/)
 <a href="mailto:luccasdealencar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -15,7 +15,7 @@
 [![Portfólio](assets/site.png)](https://www.linkedin.com/in/luccasalencar/)
 
 <img alt="yo" src="assets/yo.gif" width="200px">
-
+</div>
 <br/>
 
 ## GitHub Stats
