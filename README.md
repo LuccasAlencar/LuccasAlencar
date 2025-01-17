@@ -7,7 +7,7 @@
 <br/>
 
 ## Connect with me!
-<div style="display: flex; gap: 10px;">
+<div style="display: inline-block; gap: 10px;">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccasalencar/)
 <a href="mailto:luccasdealencar@gmail.com" target="_blank">
