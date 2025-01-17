@@ -4,10 +4,9 @@
     </a>
 </div>
 
-<br/>
 
 ## Connect with me!
-<div style="display: flex; align-items: center; justify-content:center; gap: 10px;">
+<div align="left">
     <a href="https://www.linkedin.com/in/luccasalencar/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
@@ -15,11 +14,16 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/luccasalencar/" target="_blank">
-        <img src="assets/site.png" alt="Portfólio" style="height: 32px;">
+        <img src="assets/site.png" alt="Portfólio" style="height: 28px;">
     </a>
-    <img src="assets/yo.gif" alt="yo" style="width: 150px;">
+    <img src="assets/yo.gif" align="right" alt="" height="190px">
 </div>
 
+
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ## GitHub Stats
@@ -38,7 +42,7 @@
 <br/>
 
 ## My skills
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div align="center">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -55,9 +59,7 @@
 
 
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuccasAlencar/LuccasAlencar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuccasAlencar/LuccasAlencar/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuccasAlencar/LuccasAlencar/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+   
+![snake gif](https://github.com/LuccasAlencar/LuccasAlencar/blob/output/github-snake-dark.svg)
+</div>
