@@ -33,7 +33,6 @@
 
 ## My skills
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-    <!-- Div com as imagens das habilidades -->
     <div>
         <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -48,12 +47,9 @@
         <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
         <img align="center" alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
     </div>
-    
-
-    <div>
-        <img alt="yo" src="assets/yo.gif" style="height: 150px;">
-    </div>
+    <img alt="yo" src="assets/yo.gif" width="200px">
 </div>
+
 
 
 <picture align="center">
