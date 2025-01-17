@@ -1,5 +1,7 @@
 <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Eu+sou+Luccas+de+Alencar+%F0%9F%98%80" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Eu+sou+Luccas+de+Alencar+%F0%9F%98%80" alt="Typing SVG" />
+    </a>
 </div>
 
 <br/>
@@ -7,7 +9,9 @@
 ## Connect with me!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccasalencar/)
-<a href="mailto:luccasdealencar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="mailto:luccasdealencar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 [![Portfólio](assets/site.png)](https://www.linkedin.com/in/luccasalencar/)
 
 <br/>
@@ -27,9 +31,9 @@
 </div>
 <br/>
 
-## MY SKILLS
-<div style="display: flex; align-items: center; gap: 10px;">
-    <div style="width: 200px;">
+## My skills
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+    <div>
         <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
         <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -51,4 +55,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuccasAlencar/LuccasAlencar/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuccasAlencar/LuccasAlencar/output/github-contribution-grid-snake.svg">
 </picture>
-
