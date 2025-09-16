@@ -6,18 +6,18 @@
 #
 ## My skills
 <div align="center">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/Java-008DB6.svg?style=for-the-badge&logo=Java&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/OracleDB-DC322F.svg?style=for-the-badge&logo=OracleDB&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/PowerBI-F8C517.svg?style=for-the-badge&logo=PowerBI&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black">
-    <img align="center" alt="" src="https://img.shields.io/badge/Cloudera-F96702.svg?style=for-the-badge&logo=Cloudera&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
-    <img align="center" alt="" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
+    <img align="center" border-radius="10px" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/Java-008DB6.svg?style=for-the-badge&logo=Java&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/OracleDB-DC322F.svg?style=for-the-badge&logo=OracleDB&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/PowerBI-F8C517.svg?style=for-the-badge&logo=PowerBI&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/Cloudera-F96702.svg?style=for-the-badge&logo=Cloudera&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
+    <img align="center" border-radius="10px" alt="" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
 
 
