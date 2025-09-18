@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Eu+sou+Luccas+de+Alencar+%F0%9F%98%80" alt="Typing SVG" />
     </a>
     <img src="assets/yo.gif" align="right" alt="" height="190px">
-    <p>em desenvolvimento</p>
+    <p>Data Analyst & Developer | SQL, Python & Java | Cloud Azure & ETL</p>
 </div>
 <div align="left">
     <a href="https://www.linkedin.com/in/luccasalencar/" target="_blank">
