@@ -28,8 +28,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F8C517.svg?style=for-the-badge&logo=PowerBI&logoColor=white">
   <img alt="Logstash" src="https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white">
-  <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=Apache-Hadoop&logoColor=black">
-  <img alt="Cloudera" src="https://img.shields.io/badge/Cloudera-F96702.svg?style=for-the-badge&logo=Cloudera&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
