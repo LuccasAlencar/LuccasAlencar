@@ -33,19 +33,3 @@
   <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
 </p>
 
-
-<h2 align="left">
-  GitHub Stats
-</h2>
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=LuccasAlencar&show_icons=true&theme=dark" 
-        alt="Luccas GitHub stats" 
-        style="height: 150px;"
-    >
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasAlencar&layout=compact&theme=dark" 
-        alt="Top Langs" 
-        style="height: 150px;"
-    >
-</div>
