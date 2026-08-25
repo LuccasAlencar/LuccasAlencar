@@ -3,7 +3,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Eu+sou+Luccas+de+Alencar+%F0%9F%98%80" alt="Typing SVG" />
     </a>
     <img src="assets/yo.gif" align="right" alt="" height="190px">
-    <p>Data Analyst & Developer | SQL, Python & Java | Cloud Azure & ETL</p>
+    <p>building</p>
 </div>
 <div align="left">
     <a href="https://www.linkedin.com/in/luccasalencar/" target="_blank">
@@ -14,22 +14,5 @@
     </a>
 </div>
 
-<!-- Título animado -->
-<h2 align="left">
-  My skills
-</h2>
 
-<!-- Badges de skills -->
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-008DB6.svg?style=for-the-badge&logo=Java&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img alt="OracleDB" src="https://img.shields.io/badge/OracleDB-DC322F.svg?style=for-the-badge&logo=OracleDB&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F8C517.svg?style=for-the-badge&logo=PowerBI&logoColor=white">
-  <img alt="Logstash" src="https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white">
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white">
-</p>
 
